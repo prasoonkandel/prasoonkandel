@@ -17,9 +17,11 @@
 
 ## 🔗 Connect With Me
 
-[![🌐 Website](https://img.shields.io/badge/Website-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasoonkandel.netlify.app)  
-[![📷 Instagram](https://img.shields.io/badge/Instagram-prasoonkandel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prasoonkandel)  
-[![▶️ YouTube](https://img.shields.io/badge/YouTube-prasoonkandel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@prasoonkandel)  
-[![📘 Facebook](https://img.shields.io/badge/Facebook-prasoonkandel68-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/prasoonkandel68)  
-[![🎵 TikTok](https://img.shields.io/badge/TikTok-prasoonkandel-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@prasoonkandel)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prasoonkandel)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/prasoonkandel68)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@prasoonkandel)  
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@prasoonkandel)
+
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasoonkandel.netlify.app)
 
