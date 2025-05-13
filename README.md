@@ -15,8 +15,6 @@
 ## 📈 GitHub Stats
 ![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasoonkandel&show_icons=true&theme=tokyonight)
 
-## ⚡ GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasoonkandel&theme=tokyonight)
 
 ## 🔗 Connect With Me
 
