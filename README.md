@@ -15,6 +15,9 @@
 ## 📈 GitHub Stats
 ![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasoonkandel&show_icons=true&theme=tokyonight)
 
+## ⚡ GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasoonkandel&theme=tokyonight)
+
 ## 🔗 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prasoonkandel)  
@@ -24,4 +27,3 @@
 
 ## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasoonkandel.netlify.app)
-
