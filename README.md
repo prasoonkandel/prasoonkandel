@@ -8,8 +8,8 @@
 ## 🚀 My skills
 - JavaScript (Node.js)
 - Express.js
-- MongoDB
-- Python
+- MongoDB 
+- Python (basics)
 - Git & GitHub
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
