@@ -5,15 +5,17 @@
 🎓 Grade 9 | Technical Education (Computer Engineering)  
 🎯 Goal: Become a skilled AI developer and build next-gen tech.
 
-## 🚀 My Skills
+## 🚀 My skills
 - JavaScript (Node.js)
 - Express.js
 - MongoDB
 - Python
 - Git & GitHub
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📈 GitHub Stats
-![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasoonkandel&show_icons=true&theme=tokyonight)
 
 
 ## 🔗 Connect With Me
