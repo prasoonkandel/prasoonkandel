@@ -6,7 +6,9 @@
 🎯 Goal: Become a skilled AI developer and build next-gen tech.
 
 ## 🚀 My skills
-- JavaScript (Node.js)
+- Html Css Js
+- C programming 
+- Node Js
 - Express.js
 - MongoDB 
 - Python (basics)
