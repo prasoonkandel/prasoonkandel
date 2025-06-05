@@ -27,5 +27,5 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@prasoonkandel)  
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@prasoonkandel)
 
-## 🌐 Portfolio
+## 🌐 My Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasoonkandel.netlify.app)
