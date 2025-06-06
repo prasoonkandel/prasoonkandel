@@ -1,4 +1,9 @@
 # Hi there 👋, I'm Prasoon Kandel
+I’m a class 9 student with a deep passion for artificial intelligence and machine learning.  
+I have a solid foundation in web development and backend basics, and I’m currently diving into Python to build the skills needed  
+to create intelligent systems. I believe in learning by doing, constantly experimenting with new ideas and projects  
+to grow my understanding and abilities. My goal is to continue exploring the vast world of AI while strengthening my  
+programming skills to contribute meaningfully in the future.
 
 💻 I love building backend systems and exploring AI.  
 📚 Currently learning Python.  
