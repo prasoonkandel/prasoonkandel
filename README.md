@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Prasoon
+# Hi there 👋, I'm Prasoon Kandel
 
 💻 I love building backend systems and exploring AI.  
 📚 Currently learning Python.  
