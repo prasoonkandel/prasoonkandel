@@ -18,6 +18,8 @@ programming skills to contribute meaningfully in the future.
 - MongoDB 
 - Python (basics)
 - Git & GitHub
+#Hacktime stats
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=false)<br/>
