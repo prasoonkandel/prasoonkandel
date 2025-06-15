@@ -26,7 +26,7 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
 
 ### 📈 GitHub & Coding Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Time&layout=compact&cache_seconds=0&langs_count=8" alt="WakaTime Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
