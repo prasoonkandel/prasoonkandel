@@ -49,19 +49,19 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
 
 <p align="center">
   <a href="https://instagram.com/prasoonkandel" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/a14cef12-861b-45ba-a353-03cab1525fc1)" alt="Instagram" width="40"/>
+    <img src="./insta.png" alt="Instagram" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/prasoonkandel68" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/83b7f1fd-e46e-4933-8ddb-a46146a13de4)" alt="Facebook" width="40"/>
+    <img src="./fb.png" alt="Facebook" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@prasoonkandel" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/9a2dcd9e-7154-4933-a45f-ed90e663228f)" alt="YouTube" width="40"/>
+    <img src="./yt.png" alt="YouTube" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://tiktok.com/@prasoonkandel" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/6b114223-ab55-4094-952f-d8adae0927f7)" alt="TikTok" width="40"/>
+    <img src="./ttk.png" alt="TikTok" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://x.com/prasoonkandel" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/f13b32f5-81c0-48b5-b53a-7f862a9c5e36)" alt="X" width="40"/>
+    <img src="./x.png)" alt="X" width="40"/>
   </a>
 </p>
 
