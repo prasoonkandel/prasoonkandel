@@ -49,19 +49,26 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
 
 <p align="center">
   <a href="https://instagram.com/prasoonkandel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/a14cef12-861b-45ba-a353-03cab1525fc1)
+" alt="Instagram" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/prasoonkandel68" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/83b7f1fd-e46e-4933-8ddb-a46146a13de4)
+" alt="Facebook" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@prasoonkandel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/9a2dcd9e-7154-4933-a45f-ed90e663228f)
+" alt="YouTube" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://tiktok.com/@prasoonkandel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/6b114223-ab55-4094-952f-d8adae0927f7)
+
+" alt="TikTok" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://x.com/prasoonkandel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="40"/>
+    <img src="![image](https://github.com/user-attachments/assets/f13b32f5-81c0-48b5-b53a-7f862a9c5e36)
+
+" alt="X" width="40"/>
   </a>
 </p>
 
