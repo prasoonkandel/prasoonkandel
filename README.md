@@ -61,7 +61,7 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
     <img src="./ttk.png" alt="TikTok" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://x.com/prasoonkandel" target="_blank">
-    <img src="./x.png)" alt="X" width="40"/>
+    <img src="./x.png" alt="X" width="40"/>
   </a>
 </p>
 
