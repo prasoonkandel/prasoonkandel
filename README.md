@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Prasoon Kandel</h1>
+<h1 align="center">🧑🏻‍💻 Hello! I'm Prasoon Kandel</h1>
 
 <p align="center">
   <strong>13-year-old | Class 9 | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵</strong>
