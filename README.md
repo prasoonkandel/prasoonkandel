@@ -47,18 +47,22 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
 
 ### 🔗 Social Media
 
+
 <p align="center">
   <a href="https://instagram.com/prasoonkandel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40px" alt="Instagram"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="40px" alt="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/prasoonkandel68" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" alt="Facebook"/>
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40px" alt="Facebook"/>
   </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@prasoonkandel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40px" alt="YouTube"/>
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40px" alt="YouTube"/>
   </a>&nbsp;&nbsp;
   <a href="https://tiktok.com/@prasoonkandel" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" width="40px" alt="TikTok"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok.png" width="40px" alt="TikTok"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/prasoonkandel" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="40px" alt="X (Twitter)"/>
   </a>
 </p>
 
