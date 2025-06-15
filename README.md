@@ -16,7 +16,7 @@ programming skills to contribute meaningfully in the future.
 - Node Js
 - Express.js
 - MongoDB 
-- Python (basics)
+- Python 
 - Git & GitHub
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=3683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Time&layout=compact&cache_seconds=0&langs_count=8)<br/>
