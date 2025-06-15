@@ -54,9 +54,6 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
   <a href="https://facebook.com/prasoonkandel68" target="_blank">
     <img src="./fb.png" alt="Facebook" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@prasoonkandel" target="_blank">
-    <img src="./yt.png" alt="YouTube" width="40"/>
-  </a>&nbsp;&nbsp;
   <a href="https://tiktok.com/@prasoonkandel" target="_blank">
     <img src="./ttk.png" alt="TikTok" width="40"/>
   </a>&nbsp;&nbsp;
