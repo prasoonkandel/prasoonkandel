@@ -1,37 +1,66 @@
-# Hi there 👋, I'm Prasoon Kandel
-I’m a class 9 student with a deep passion for artificial intelligence and machine learning.  
-I have a solid foundation in web development and backend basics, and I’m currently diving into Python to build the skills needed  
-to create intelligent systems. I believe in learning by doing, constantly experimenting with new ideas and projects  
-to grow my understanding and abilities. My goal is to continue exploring the vast world of AI while strengthening my  
-programming skills to contribute meaningfully in the future.
+<h1 align="center">👋 Hello! I'm Prasoon Kandel</h1>
 
-💻 I love building backend systems and exploring AI.  
-📚 Currently learning Python.  
-🎓 Grade 9 | Technical Education (Computer Engineering)  
-🎯 Goal: Become a skilled AI developer and build next-gen tech.
+<p align="center">
+  <strong>13-year-old | Class 9 | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵</strong>
+</p>
 
-## 🚀 My skills
-- HTML CSS JS
-- C 
-- Node Js
-- Express.js
-- MongoDB 
-- Python 
-- Git & GitHub
-# 📊 GitHub Stats:
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=3683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Time&layout=compact&cache_seconds=0&langs_count=8)<br/>
-![](https://github-readme-stats.vercel.app/api?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
+### 🧠 About Me
 
+I'm a curious and driven student deeply passionate about **Artificial Intelligence** and **Machine Learning**.  
+I have a solid base in **web development**, and I’m currently mastering **Python** to create intelligent systems.  
+I'm a hands-on learner who loves experimenting with projects to explore new concepts and grow real skills.
 
-## 🔗 Connect With Me
+---
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prasoonkandel)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/prasoonkandel68)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@prasoonkandel)  
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@prasoonkandel)
+### 🚀 Skills
 
-## 🌐 My Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasoonkandel.netlify.app)
+- 💻 HTML, CSS, JavaScript  
+- ⚙️ Node.js, Express.js, MongoDB  
+- 🔤 C Programming  
+- 🐍 Python (focused on AI/ML)  
+- 🔧 Git & GitHub  
+
+---
+
+### 📈 GitHub & Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Time&layout=compact&cache_seconds=0&langs_count=8" alt="WakaTime Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prasoonkandel&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://prasoonkandel.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🔗 Social Media
+
+<p align="center">
+  <a href="https://instagram.com/prasoonkandel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40px" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/prasoonkandel68" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" alt="Facebook"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@prasoonkandel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40px" alt="YouTube"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://tiktok.com/@prasoonkandel" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" width="40px" alt="TikTok"/>
+  </a>
+</p>
+
+---
+
