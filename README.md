@@ -37,7 +37,7 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
 
 ### 🌐 My Portfolio
 
-<p align="center">
+<p >
   <a href="https://prasoonkandel.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -47,7 +47,7 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
 
 ### 🔗 Social Media
 
-<p align="center">
+<p>
   <a href="https://instagram.com/prasoonkandel" target="_blank">
     <img src="./insta.png" alt="Instagram" width="40"/>
   </a>&nbsp;&nbsp;
