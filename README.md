@@ -47,24 +47,22 @@ I'm a hands-on learner who loves experimenting with projects to explore new conc
 
 ### 🔗 Social Media
 
-
 <p align="center">
   <a href="https://instagram.com/prasoonkandel" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://facebook.com/prasoonkandel68" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@prasoonkandel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://tiktok.com/@prasoonkandel" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/prasoonkandel" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="40"/>
   </a>
 </p>
 
 ---
-
