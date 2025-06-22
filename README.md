@@ -10,8 +10,6 @@
 
 I'm a curious and driven student deeply passionate about **Artificial Intelligence** and **Machine Learning**.  
 I have a solid base in **web development**, and I’m currently mastering **Python** to create intelligent systems.  
-I'm a hands-on learner who loves experimenting with projects to explore new concepts and grow real skills.
-
 ---
 
 ### 🚀 Skills
