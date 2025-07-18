@@ -22,10 +22,7 @@ I have a solid base in **web development**, and I’m currently mastering **Pyth
 
 ---
 
-### 📈 GitHub & Coding Stats
-
-<p>
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Time&layout=compact&cache_seconds=0&langs_count=8" alt="WakaTime Stats"/><br/>
+### 📈 GitHub Stats
   <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
