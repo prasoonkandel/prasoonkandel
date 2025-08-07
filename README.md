@@ -14,11 +14,11 @@ I have a solid base in **web development**, and I’m currently mastering **Pyth
 
 ### 🚀 Skills
 
-- 💻 HTML, CSS, JavaScript  
+- 💻 HTML, CSS, JavaScript
 - ⚙️ Node.js, Express.js, MongoDB  
-- 🔤 C Programming  
+- 🔤 C / C++
 - 🐍 Python (focused on AI/ML)  
-- 🔧 Git & GitHub  
+- 🔧 Git & GitHub
 
 ---
 
