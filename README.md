@@ -24,9 +24,9 @@ I have a solid base in **web development**, and I’m currently mastering **Pyth
 
 ### 📈 GitHub Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=device&hide_border=true&layout=compact" alt="Top Languages"/></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/></p>
     <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=device&hide_border=true" alt="GitHub Streak"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=true" alt="GitHub Streak"/><br/>
 
 </p>
 
