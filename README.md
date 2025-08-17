@@ -6,23 +6,24 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-I'm a curious and driven student deeply passionate about **Artificial Intelligence** and **Machine Learning**.  
-I have a solid base in **web development**, and I’m currently mastering **Python** to create intelligent systems.  
+I'm a 13 years old high school student and tech enthusiast from Tilottama, Nepal. In my free time, I build websites write programms and play chess.
+
+I work with Python, Node.js, and C/C++ for programming. I have buit a great foundation in Web Development using HTML,CSS and Javascript.I have also worked with aurduino to build automation projects.
 ---
 
-### 🚀 Skills
+###  Skills
 
-- 💻 HTML, CSS, JavaScript
-- ⚙️ Node.js, Express.js, MongoDB  
-- 🔤 C / C++
-- 🐍 Python (focused on AI/ML)  
-- 🔧 Git & GitHub
+-  HTML, CSS, JavaScript
+-  Node.js, Express.js, MongoDB  
+-  C / C++
+-  Python (focused on AI/ML)  
+-  Git & GitHub
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/></p>
     <p>
@@ -32,7 +33,7 @@ I have a solid base in **web development**, and I’m currently mastering **Pyth
 
 ---
 
-### 🌐 My Portfolio Website 
+###  My Portfolio Website 
 
 <p >
   <a href="https://prasoonkandel.netlify.app" target="_blank">
@@ -42,7 +43,7 @@ I have a solid base in **web development**, and I’m currently mastering **Pyth
 
 ---
 
-### 🔗 Social Media
+###  Social Media
 
 <p>
   <a href="https://instagram.com/prasoonkandel" target="_blank">
