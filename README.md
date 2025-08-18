@@ -35,8 +35,8 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 ###  My Portfolio Website 
 
 <p >
-  <a href="https://prasoonkandel.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-prasoonkandel.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://prasoonkandel.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-prasoonkandel.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
