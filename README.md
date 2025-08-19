@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Prasoon Kandel</h1>
+hrefh1 align="center">Hey! I'm Prasoon Kandel</h1>
 <div align="center"> <img src="./code.gif" /> </div>
 <p align="center">
   <strong>13-year-old | Class 9 | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵</strong>
@@ -14,11 +14,11 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 ###  Skills
 
--  HTML, CSS, JavaScript
+-  HTML, CSJavaScriptipt
 -  Node.js, Express.js, MongoDB  
 -  C / C++
--  Python (focused on AI/ML)  
--  Git & GitHub
+Pythonhon (focused on AI/ML)  
+-  GitGitHubHub
 
 ---
 
@@ -34,7 +34,7 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 ###  My Portfolio Website 
 
-<p >
+<p>
   <a href="https://prasoonkandel.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit-prasoonkandel.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
