@@ -11,6 +11,7 @@
 I'm a 13 years old high school student and tech enthusiast from Tilottama, Nepal. 
 I work with Python, Node.js, and C/C++ for programming. I have buit a great foundation in Web Development using HTML,CSS and Javascript.I have also worked with aurduino to build automation projects.
 
+---
 
 ###  Skills
 
