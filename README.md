@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Prasoon Kandel</h1>
+<h2 align="center">Hey! I'm Prasoon Kandel</h2>
 <div align="center"> <img src="./code.gif" /> </div>
 <p align="center">
   <strong>13-year-old | Class 9 | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵</strong>
