@@ -51,11 +51,9 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
   <a href="https://facebook.com/prasoonkandel68" target="_blank">
     <img src="./fb.png" alt="Facebook" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@prasoonkandel" target="_blank">
-    <img src="./ttk.png" alt="TikTok" width="40"/>
-  </a>&nbsp;&nbsp;
+
   <a href="https://x.com/prasoonkandel" target="_blank">
-    <img src="./x.png" alt="X" width="40"/>
+   <img src="./x.png" alt="X" width="40"/>
   </a>
 </p>
 
