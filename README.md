@@ -19,7 +19,7 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 -  Node.js, Express.js,          MongoDB
 -  C / C++
 -  Python 
--  GitGitHubHub
+-  Git GitHub
 
 ---
 
