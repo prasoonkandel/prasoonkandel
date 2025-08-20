@@ -15,10 +15,10 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 ###  Skills
 
--  HTML, CSJavaScriptipt
--  Node.js, Express.js, MongoDB  
+-  HTML, CSS, JavaScript
+-  Node.js, Express.js,          MongoDB
 -  C / C++
-Pythonhon (focused on AI/ML)  
+-  Python 
 -  GitGitHubHub
 
 ---
