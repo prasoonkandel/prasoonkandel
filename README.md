@@ -48,13 +48,14 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 <p>
   <a href="https://instagram.com/prasoonkandel" target="_blank">
-    <i class="fa-brands fa-instagram fa-2x" style="color:#E4405F"></i>
+    <img src="./insta.png" alt="Instagram" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/prasoonkandel68" target="_blank">
-    <i class="fa-brands fa-facebook fa-2x" style="color:#1877F3"></i>
+    <img src="./fb.png" alt="Facebook" width="40"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://x.com/prasoonkandel" target="_blank">
-    <i class="fa-brands fa-x-twitter fa-2x" style="color:#000"></i>
+   <img src="./x.png" alt="X" width="40"/>
   </a>
 </p>
 
