@@ -6,7 +6,7 @@
 </p>
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=prasoonkandel)
+
 
 ##  About Me
 
