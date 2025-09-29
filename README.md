@@ -6,25 +6,26 @@
 </p>
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=prasoonkandel)
 
-###  About Me
+##  About Me
 
 I'm a 13 years old high school student and tech enthusiast from Tilottama, Nepal. 
 I work with Python, Node.js, and C/C++ for programming. I have buit a great foundation in Web Development using HTML,CSS and Javascript.I have also worked with aurduino to build automation projects.
 
 ---
 
-###  Skills
+##  Skills
 
 -  HTML, CSS, JavaScript
--  Node.js, Express.js,          MongoDB
+-  Node.js, Express.js, MongoDB
 -  C / C++
 -  Python 
 -  Git GitHub
 
 ---
 
-###  GitHub Stats
+##  GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/></p>
     <p>
@@ -34,7 +35,7 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 ---
 
-###  My Portfolio Website 
+##  My Portfolio Website 
 
 <p>
   <a href="https://prasoonkandel.vercel.app" target="_blank">
@@ -44,7 +45,7 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 ---
 
-###  Social Media
+##  Social Media
 
 <p>
   <a href="https://instagram.com/prasoonkandel" target="_blank">
