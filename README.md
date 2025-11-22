@@ -11,10 +11,10 @@
 ---
 
 
-##  About Me
-
+#  About Me
+<p font-size="18px">
 I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work with multiple programming languages and focus on building and learning new things.
-
+</p>
 <br/>
 <p>
   <a href="https://prasoonkandel.vercel.app" target="_blank">
