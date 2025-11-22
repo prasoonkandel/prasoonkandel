@@ -51,6 +51,5 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 ---
 ## Spotify 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true)
 ---
