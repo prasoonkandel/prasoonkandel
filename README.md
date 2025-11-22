@@ -12,7 +12,7 @@
 
 
 #  About Me
-<p font-size="18px">
+<p style="font-size: 24px;">
 I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work with multiple programming languages and focus on building and learning new things.
 </p>
 <br/>
