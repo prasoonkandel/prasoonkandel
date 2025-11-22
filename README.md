@@ -10,10 +10,6 @@
 
 ---
 
-# Spotify 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true)
-
----
 
 # About Me
 <p style="font-size: 24px;">
@@ -28,6 +24,11 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
+
+# Spotify 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true)
+
+---
 
 # Coding Stats
 <p>
