@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-<h2 align="center">Hey! I'm Prasoon Kandel</h2>
-<div align="center"> <img src="./code.gif" height="400px" /> </div>
-<p align="center">
-  <strong>13-year-old | Class 9 | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵</strong>
+
+# Hey! I'm Prasoon Kandel 
+
+<div align="center"> <img src="./code.gif" height="400px" style="border-radius:20px;" /> </div>
+
+## 14-year-old | High School | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵</strong>
 </p>
 
 ---
