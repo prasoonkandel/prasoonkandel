@@ -10,12 +10,12 @@
 
 ---
 
-## Spotify 
+# Spotify 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true)
 
 ---
 
-#  About Me
+# About Me
 <p style="font-size: 24px;">
 I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work with multiple programming languages and focus on building and learning new things.
 </p>
@@ -29,13 +29,14 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ---
 
 
-## Coding Stats
+# Coding Stats
 <p>
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=8&theme=merko"/>
 </p>
 
 ---
-##  GitHub Stats
+
+#  GitHub Stats
 <p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=true" alt="GitHub Streak"/><br/>
 
