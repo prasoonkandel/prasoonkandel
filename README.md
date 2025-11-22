@@ -15,16 +15,6 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 
 ---
 
-##  Skills
-
--  HTML, CSS, JavaScript
--  Node.js, Express.js, MongoDB
--  C / C++
--  Python 
--  Git GitHub
-
----
-
 ##  GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/></p>
@@ -40,8 +30,6 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 </p>
 
 ---
-
-##  My Portfolio Website 
 
 <p>
   <a href="https://prasoonkandel.vercel.app" target="_blank">
