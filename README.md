@@ -37,8 +37,6 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ---
 ##  GitHub Stats
 <p>
-    [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonkandel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</p>
-    <p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=true" alt="GitHub Streak"/><br/>
 
 </p>
