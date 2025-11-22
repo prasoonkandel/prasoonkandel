@@ -2,11 +2,11 @@
 
 <h1 align="center">Hey! I'm Prasoon Kandel</h1>
 
-<div align="center"> <img src="./code.gif" /> </div>
+<div align="center"> <img src="./code.gif" /> 
 
-## 14-year-old | High School | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵</strong>
-</p>
+## 14-year-old | High School | AI & ML Enthusiast from Rupandehi, Nepal 🇳🇵
 
+</div>
 ---
 
 
