@@ -50,20 +50,7 @@ I work with Python, Node.js, and C/C++ for programming. I have buit a great foun
 </p>
 
 ---
+## Spotify 
 
-##  Social Media
-
-<p>
-  <a href="https://instagram.com/prasoonkandel" target="_blank">
-    <img src="./insta.png" alt="Instagram" width="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/prasoonkandel68" target="_blank">
-    <img src="./fb.png" alt="Facebook" width="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://x.com/prasoonkandel" target="_blank">
-   <img src="./x.png" alt="X" width="40"/>
-  </a>
-</p>
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true)
 ---
