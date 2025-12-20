@@ -23,6 +23,32 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 </p>
 
 ---
+<div>
+
+  <b>I am great with:</b><br>
+  <a href="https://github.com/prasoonkandel">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,nodejs" />
+  </a>
+
+  <b>I am learning:</b><br>
+  <a href="https://github.com/prasoonkandel">
+    <img src="https://skillicons.dev/icons?i=flask,java,dotnet,cs" />
+  </a>
+
+  <b>I have used:</b><br>
+  <a href="https://github.com/prasoonkandel">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,arduino,nodejs,mongodb,vercel,pr" />
+  </a>
+
+  <b>I want to explore:</b><br>
+  <a href="https://github.com/prasoonkandel">
+    <img src="https://skillicons.dev/icons?i=rust,pytorch,php,flutter," />
+  </a>
+
+</div>
+
+---
+
 
 # Spotify
 
