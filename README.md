@@ -27,7 +27,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
   <b>I am great with:</b><br>
   <a href="https://github.com/prasoonkandel">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js" />
   </a>
 
   <b>I am learning:</b><br>
