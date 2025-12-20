@@ -25,22 +25,22 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ---
 <div>
 
-  <b>I am great with:</b><br>
+  <b>Tech Stack:</b><br>
   <a href="https://github.com/prasoonkandel">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,html,css,js,nodejs,cs" />
   </a>
 
-  <b>I am learning:</b><br>
+  <b>Tools and Technologies used:</b><br>
   <a href="https://github.com/prasoonkandel">
-    <img src="https://skillicons.dev/icons?i=flask,java,dotnet,cs" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,arduino,mongodb,numpy,vercel,pr" />
   </a>
-
-  <b>I have used:</b><br>
+  
+  <b>Learning Currently:</b><br>
   <a href="https://github.com/prasoonkandel">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,arduino,nodejs,mongodb,vercel,pr" />
+    <img src="https://skillicons.dev/icons?i=flask,dotnet" />
   </a>
-
-  <b>I want to explore:</b><br>
+  
+  <b>Want to explore:</b><br>
   <a href="https://github.com/prasoonkandel">
     <img src="https://skillicons.dev/icons?i=rust,pytorch,php,flutter," />
   </a>
