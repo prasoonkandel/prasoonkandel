@@ -59,7 +59,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 # Coding Stats 
 
 <p>
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=8&theme=merko"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=10&theme=merko"/>
 </p>
 
 ---
