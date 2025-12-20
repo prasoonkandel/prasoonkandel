@@ -32,7 +32,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
   <b>Tools and Technologies used:</b><br>
   <a href="https://github.com/prasoonkandel">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,arduino,mongodb,numpy,vercel,pr" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,arduino,mongodb,vercel,pr" />
   </a>
   
   <b>Learning Currently:</b><br>
