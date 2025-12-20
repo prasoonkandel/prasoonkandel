@@ -36,7 +36,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ## Learning Now:
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=flask,dotnet" />
 </p>
 
@@ -44,7 +44,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ## Things i want to touch soon:
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=rust,pytorch,php,flutter" />
 </p>
 
@@ -52,11 +52,11 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ## Activity & Grind:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=10&theme=merko"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=true"/>
 </p>
 
@@ -64,7 +64,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ## What i'm listening to:
 
-<p align="center">
+<p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&background_color=121212&bar_color=53b14f&mode=dark" />
   </a>
