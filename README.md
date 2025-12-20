@@ -20,7 +20,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ## Current stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=py,cpp,java,c,cs,html,css,js,nodejs,npm" />
 </p>
 
@@ -28,7 +28,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ## Tools and Tecnologies I have used:
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,arduino,mongodb,vercel,pr" />
 </p>
 
@@ -42,7 +42,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## Things i want to touch soon
+## Things i want to touch soon:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,pytorch,php,flutter" />
@@ -50,7 +50,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## activity & grind
+## Activity & Grind:
 
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=10&theme=merko"/>
@@ -62,7 +62,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## what i'm listening to while coding
+## What i'm listening to:
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true">
@@ -72,9 +72,10 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## random facts
+## Random facts
 
-- started coding early  
-- likes building over watching tutorials  
-- prefers dark themes  
-- learns fast by breaking things
+- Started coding from the age of 13 
+- Likes building over watching tutorials  
+- Prefers dark themes  
+- Loves to play chess
+- Always active on instagram
