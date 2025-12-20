@@ -1,10 +1,10 @@
-<h1 align="center">Prasoon Kandel</h1>
+<h1>Prasoon Kandel</h1>
 
-<p align="center">
-  High School | AI & ML Enthusiast | Rupandehi, Nepal 🇳🇵
+<p>
+  High School | AI & ML Enthusiast | Programmer
 </p>
 
-<p align="center">
+<p >
   <a href="https://prasoonkandel.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-prasoonkandel.vercel.app-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -12,13 +12,13 @@
 
 ---
 
-## who am i?
+## Who am i?
 
 I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work with multiple programming languages and focus on building and learning new things.
 
 ---
 
-## current stack
+## Current stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,java,c,cs,html,css,js,nodejs,npm" />
@@ -26,7 +26,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## tools i use daily
+## Tools and Tecnologies I have used:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,arduino,mongodb,vercel,pr" />
@@ -34,7 +34,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## learning rn
+## Learning Now:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,dotnet" />
@@ -42,7 +42,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-## things i want to touch soon
+## Things i want to touch soon
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,pytorch,php,flutter" />
