@@ -29,7 +29,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ## Tools and Tecnologies I have used:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,arduino,mongodb,vercel,pr" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,arduino,mongodb,vercel,unity,pr" />
 </p>
 
 ---
