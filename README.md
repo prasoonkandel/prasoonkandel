@@ -37,7 +37,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ## Learning Now:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,jinja,dotnet" />
+  <img src="https://skillicons.dev/icons?i=flask,dotnet" />
 </p>
 
 ---
