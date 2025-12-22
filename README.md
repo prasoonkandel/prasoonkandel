@@ -78,4 +78,5 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 - Likes building over watching tutorials  
 - Prefers dark themes  
 - Loves to play chess
+- Plays Minecraft
 - Always active on instagram
