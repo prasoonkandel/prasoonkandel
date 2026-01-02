@@ -15,40 +15,32 @@
 ## Who am i?
 
 I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work with multiple programming languages and focus on building and learning new things.
-
 ---
 
-## Current stack
+## Current Stack (Languages)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,c,cs,html,css,js,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,c,cs,js,html,css" />
 </p>
 
 ---
 
-## Tools and Tecnologies I have used:
+## Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,arduino,mongodb,vercel,unity,pr" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,npm,mongodb,vercel,unity" />
 </p>
 
 ---
 
-## Learning Now:
+## Software & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,dotnet" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,arduino,pr" />
 </p>
 
 ---
 
-## Things i want to touch soon:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,pytorch,php,flutter" />
-</p>
-
----
 
 ## Activity & Grind:
 
