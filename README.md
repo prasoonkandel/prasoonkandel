@@ -51,7 +51,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 
 <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&bg_color=0f0f0f&hide_border=true&"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&background=0f0f0f&hide_border=true"/>
 </p>
 
 <p>
