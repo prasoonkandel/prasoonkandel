@@ -59,6 +59,8 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 </p>
 
+
+
 ---
 
 ## What i'm listening to:
@@ -74,7 +76,8 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ## Random facts
 
 - Started coding from the age of 13 
-- Likes building over watching tutorials  
+- Likes building over watching tutorials
+- Wants to become master of Python and C++
 - Prefers dark themes  
 - Loves to play chess
 - Plays Minecraft
