@@ -45,13 +45,18 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ## Activity & Grind:
 
 <p>
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=10&theme=merko"/>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=10&theme=dark&hide_border=true&bg_color=0f0f0f&color=f1f1f1&title_color=ffffff&"/>
 </p>
 
 
 
 <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&bg_color=0f0f0f&hide_border=true&"/>
+</p>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonkandel&bg_color=0f0f0f&line=ffbb00&point=00ff90&color=f1f1f1&title_color=ffffff&hide_border=true"/>
+
 </p>
 
 ---
