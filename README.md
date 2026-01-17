@@ -65,6 +65,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ## What i'm listening to:
 
+
 <p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&background_color=121212&bar_color=53b14f&mode=dark" />
