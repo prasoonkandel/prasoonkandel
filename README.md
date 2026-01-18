@@ -36,7 +36,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 ## Software & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,kalilinux,linux,vscode,arduino,pr" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,kali,linux,vscode,arduino,pr" />
 </p>
 
 ---
