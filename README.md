@@ -80,6 +80,6 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 - Likes building over watching tutorials
 - Wants to become master of Python and C++
 - Prefers dark themes  
-- Loves to play chess
+- Mathematics Lover
 - Plays Minecraft
 - Always active on instagram
