@@ -79,7 +79,7 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 - Started coding from the age of 13 
 - Likes building over watching tutorials
 - Wants to become master of Python and C++
-- Prefers dark themes  
+- Prefers dark themes
 - Mathematics Lover
 - Plays Minecraft
 - Always active on instagram
