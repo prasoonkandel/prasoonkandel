@@ -5,8 +5,8 @@
 </p>
 
 <p >
-  <a href="https://prasoonkandel.me" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-prasoonkandel.me-3242D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://prasoonkandel.com" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-prasoonkandel.com-3242D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
