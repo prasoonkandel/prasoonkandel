@@ -41,7 +41,6 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 ---
 
-
 ## Activity & Grind:
 
 <p>
