@@ -1,7 +1,7 @@
 <h1>Prasoon Kandel</h1>
 
 <p>
-  High School Student | AI & ML Enthusiast | Programmer
+  High School Student | AI & ML Enthusiast 
 </p>
 
 <p >
