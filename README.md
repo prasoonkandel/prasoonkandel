@@ -54,7 +54,6 @@ I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work
 
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonkandel&bg_color=0f0f0f&line=ffbb00&point=00ff90&color=f1f1f1&title_color=ffffff&hide_border=true"/>
-
 </p>
 
 
