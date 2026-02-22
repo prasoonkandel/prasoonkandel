@@ -5,7 +5,9 @@
 
 <p >
   <a href="https://prasoonkandel.com" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-prasoonkandel.com-3242D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://prasoonkandel.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio Website-130052?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   </a>
 </p>
 
