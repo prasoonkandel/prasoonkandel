@@ -5,10 +5,7 @@
 
 <p >
   <a href="https://prasoonkandel.com" target="_blank">
-<a href="https://prasoonkandel.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio Website-130052?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-  </a>
+<img src="https://img.shields.io/badge/Portfolio_Website-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
