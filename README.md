@@ -46,8 +46,6 @@
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Time+Used+For+Something&layout=compact&cache_seconds=0&langs_count=10&theme=dark&hide_border=true&bg_color=0f0f0f&color=f1f1f1&title_color=ffffff&"/>
 </p>
 
-
-
 <p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&background=0f0f0f&hide_border=true"/>
 </p>
