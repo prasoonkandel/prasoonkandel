@@ -55,7 +55,7 @@
 
 <p>
   
-  <img src="https://streak-stats.demolab.com?user=prasoonkandel&theme=dark&hide_border=true&background=0f0f0f)](https://git.io/streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=prasoonkandel&theme=dark&hide_border=true&background=0f0f0f"/>
   
 <p>
 
