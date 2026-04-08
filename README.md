@@ -55,7 +55,7 @@
 
 <p>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prasoonkandel&theme=dark&background=0f0f0f&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=prasoonkandel&theme=dark&hide_border=true&background=0f0f0f)](https://git.io/streak-stats"/>
   
 <p>
 
