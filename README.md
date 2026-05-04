@@ -14,7 +14,7 @@
 
 ## Who am i?
 
-### I'm a teen high school student and tech enthusiast from Rupandehi, Nepal. I work with multiple programming languages and focus on building and learning new things.
+### I'm a teen high school student developer from Rupandehi, Nepal. I mainly work with C++ and Python. I have a solid foundation in backend development with flask and basic knowledge of frontend using (HTML/CSS/JS). I currently learning DSA and AI/ML. 
 
 ---
 
