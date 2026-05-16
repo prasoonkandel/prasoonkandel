@@ -21,9 +21,7 @@
 ## Current Stack (Languages)
 
 <p>
-
   <img src="https://skillicons.dev/icons?i=py,cpp,java,c,cs,js,html,css" />
-
 </p>
 
 ---
