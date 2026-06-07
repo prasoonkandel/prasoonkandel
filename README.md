@@ -29,7 +29,7 @@
 ## Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,npm,mongodb,vercel,unity" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,npm,mongodb,vite,vercel,unity" />
 </p>
 
 ---
