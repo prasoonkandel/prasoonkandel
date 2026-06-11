@@ -1,4 +1,4 @@
-<h1>Prasoon Kandel</h1>
+# Prasoon Kandel
 
 <p>
   High School Developer (C++/Python) | Exploring AI/ML and Learning Maths and DSA.
