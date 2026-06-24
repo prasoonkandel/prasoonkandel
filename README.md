@@ -37,7 +37,7 @@
 ## Software & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,kali,ubuntu,arch,linux,vscode,arduino,pr" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,mysql,kali,ubuntu,arch,linux,vscode,arduino,pr" />
 </p>
 
 ---
