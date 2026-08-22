@@ -19,7 +19,6 @@
 ---
 
 ## Current Stack (Languages)
-
 <p>
   <img src="https://skillicons.dev/icons?i=py,cpp,java,c,cs,js,html,css" />
 </p>
@@ -27,7 +26,6 @@
 ---
 
 ## Frameworks & Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=flask,nodejs,npm,mongodb,vite,vercel" />
 </p>
@@ -35,7 +33,6 @@
 ---
 
 ## Software & Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bash,mysql,kali,ubuntu,arch,linux,vscode,arduino,pr" />
 </p>
@@ -43,7 +40,6 @@
 ---
 
 ## Activity & Grind:
-
 <p>
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14002&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=10&theme=dark&hide_border=true&bg_color=0f0f0f&color=f1f1f1&title_color=ffffff&"/>
 </p>
@@ -60,7 +56,6 @@
 ---
 
 ## What i'm listening to:
-
 <p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbxfonzwtjaxhlrhjuwkhwdbv4&cover_image=true&theme=spotify-embed&background_color=121212&bar_color=53b14f&mode=dark" />
