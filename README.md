@@ -14,7 +14,7 @@
 
 ## Who am i?
 
-**I am a teen high school student from Butwal, Nepal. I am a self-taught software developer too. I mainly use C++ as my primary programming language alongside Python for AI/ML or data science tasks. I can build functional backend systems and simple UI for it using HTML, CSS and JS. I also love mathematics and science. I am currently studying Mathematics, DSA and AI/ML alongside my school studies.**
+**I am a teen high school student from Butwal, Nepal. I am a self-taught software developer too. I mainly use C++ as my primary programming language, and I also use Python for AI/ML or data science related tasks and projects. I can build functional backend systems using Python and simple UI for it using HTML, CSS and JS. I also love mathematics and science. I am currently studying Mathematics, DSA and AI/ML alongside my school studies.**
 
 ---
 
