@@ -1,7 +1,7 @@
 # Prasoon Kandel
 
 <p>
-  High School Student Developer (C++/Python) | Learning AI/ML, Maths & DSA.
+  High School Student Developer (C++/Python) | Learning AI/ML, Data Science, Maths & DSA.
 </p>
 
 <p>
